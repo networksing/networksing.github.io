@@ -1,5 +1,6 @@
 ---
 title: Assigning cause to random chance
+feed: show
 tag: Psychology 
 category: notes
 ---
