@@ -3,7 +3,6 @@ layout: Post
 title:  "Building Digital Notes"
 feed: show
 category: posts
-permalink: /posts/digital-garden
 ---
 
 The book [How to Take Smart Notes](https://amzn.to/3XXC9D6) and [Santosh's Digital Garden](https://docs.thottingal.in/) inspired me to build a PKM. I had a personal wiki using [Dokuwiki](https://www.dokuwiki.org/dokuwiki), and a large [Evernote](https://evernote.com/) collection of over 10k notes. 
