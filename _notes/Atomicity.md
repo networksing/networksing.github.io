@@ -1,5 +1,6 @@
 ---
 title: Atomicity
+feed: show
 tag: Systems
 category: notes
 ---
