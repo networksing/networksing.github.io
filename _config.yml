@@ -86,8 +86,7 @@ defaults:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - _notes/collections 
+exclude: # 排除 不显示
   - _notes/000 Inbox
   - _notes/500 Projects
   - _notes/600 Archive
