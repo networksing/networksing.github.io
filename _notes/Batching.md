@@ -1,6 +1,6 @@
 ---
 title: Batching
-feed: hide
+feed: show
 date: 2021-07-10
 category: notes
 ---
