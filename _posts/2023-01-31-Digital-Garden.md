@@ -2,7 +2,7 @@
 layout: Post
 title:  "Building Digital Notes"
 feed: show
-permalink: /writing/bullet-journal
+permalink: /posts/bullet-journal
 category: posts
 ---
 
