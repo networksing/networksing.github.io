@@ -2,6 +2,7 @@
 layout: Post
 title:  "Bullet Journaling, My Personalised Method"
 feed: show
+permalink: /posts/Bullet-Journaling
 category: post
 ---
 
