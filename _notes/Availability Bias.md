@@ -1,5 +1,6 @@
 ---
 title: Availability Bias
+feed: show
 tag: Psychology 
 category: notes
 ---
