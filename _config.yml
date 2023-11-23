@@ -87,6 +87,7 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - _notes/collections 
   - _notes/000 Inbox
   - _notes/500 Projects
   - _notes/600 Archive
