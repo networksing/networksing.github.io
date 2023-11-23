@@ -77,6 +77,12 @@ defaults:
     values:
       layout: Post
       content-type: notes
+   - scope:
+      path: ""
+      type: posts
+    values:
+      layout: Post
+      content-type: posts
       
 # Exclude from processing.
 # The following items will not be processed, by default.
