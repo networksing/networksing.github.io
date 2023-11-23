@@ -17,7 +17,7 @@
         </a>
 
         <div class="home-wrapper">  
-                {% assign posts = site.notes | where: 'category', 'notes' | where: 'feed', 'show' | sort: 'date' | reverse %}
+                {% assign posts = site.posts | where: 'category', 'notes' | where: 'feed', 'show' | sort: 'date' | reverse %}
                 {% for note in posts limit: 6 %}
                 <div class="homelist-feed"> <a href="{{ note.url }}">{{ note.posts }}</a></div>
                 {% endfor %}
