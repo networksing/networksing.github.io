@@ -4,11 +4,6 @@ title:  Building Digital Notes, My Personalised Method
 permalink: /writing/bullet-journal
 ---
 
-
-layout	title	permalink
-Post
-Bullet Journaling, My Personalised Method
-/writing/bullet-journal
 For the past five years, I have been using a notebook as my primary tool for productivity and thinking. Despite experimenting with various digital tools such as to-do apps and iPad writing tools, I have found that using a pen and paper is still the most effective way for me to get my ideas and tasks out of my head. The format I use is a mix of a commonplace book and a bullet journal.
 
 If you are new to Bullet Journal, the best way to learn is by watching this short official video. It's straightforward, well-explained, and only takes 5 minutes! For more, read the blog or The Bullet Journal Method book by Ryder Carroll.
