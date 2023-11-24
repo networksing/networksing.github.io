@@ -7,7 +7,7 @@ category: posts
 permalink: /posts/digital-garden
 ---
 
-The book [How to Take Smart Notes](https://amzn.to/3XXC9D6) and [Santosh's Digital Garden](https://docs.thottingal.in/) inspired me to build a PKM. I had a personal wiki using [Dokuwiki](https://www.dokuwiki.org/dokuwiki), and a large [Evernote](https://evernote.com/) collection of over 10k notes. 
+The book  and  inspired me to build a PKM. I had a personal wiki using  and a large collection of over 10k notes. 
 
 How I maintained Evernote is an interesting story: *The free version had folder limitations, and to bypass the limit, I came up with a three-folder approach. (Inbox, Notes, References.) Since 3-folders cannot provide much context, I used tags and sub-tags. I had around 1k+ notes about random WordPress themes, with tags like `#wp/good-header`, `#wp/mobile-responsive`, `#wp/max-width-960`, and so on! (This is not bad, and I will tell you why!)*
 
