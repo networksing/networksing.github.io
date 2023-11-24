@@ -1,6 +1,9 @@
 ---
 layout: Post
 title:  "Bullet Journaling, My Personalised Method"
+feed: show
+tag: chology
+category: posts
 permalink: /posts/bullet-journal
 ---
 
