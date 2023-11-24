@@ -1,6 +1,9 @@
 ---
 layout: Post
 title:  "Building Digital Notes"
+feed: show
+tag: Digital
+category: posts
 permalink: /posts/digital-garden
 ---
 
