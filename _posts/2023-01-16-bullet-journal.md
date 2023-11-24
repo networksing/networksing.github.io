@@ -4,7 +4,7 @@ title:  "Bullet Journaling, My Personalised Method"
 feed: show
 tag: chology
 category: posts
-permalink: /bullet-journal
+permalink: /posts/bullet-journal
 ---
 
 For the past five years, I have been using a notebook as my primary tool for productivity and thinking. Despite experimenting with various digital tools such as to-do apps and iPad writing tools, I have found that using a pen and paper is still the most effective way for me to get my ideas and tasks out of my head. The format I use is a mix of a and a 
