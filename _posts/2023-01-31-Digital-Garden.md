@@ -1,38 +1,52 @@
 ---
 layout: Post
-title:  Building Digital Notes, My Personalised Method
-permalink: /writing/bullet-journal
+title:  Building Digital Notes
+permalink: /writing/digital-garden
 ---
 
-For the past five years, I have been using a notebook as my primary tool for productivity and thinking. Despite experimenting with various digital tools such as to-do apps and iPad writing tools, I have found that using a pen and paper is still the most effective way for me to get my ideas and tasks out of my head. The format I use is a mix of a commonplace book and a bullet journal.
+The book How to Take Smart Notes and Santosh's Digital Garden inspired me to build a PKM. I had a personal wiki using Dokuwiki, and a large Evernote collection of over 10k notes.
 
-If you are new to Bullet Journal, the best way to learn is by watching this short official video. It's straightforward, well-explained, and only takes 5 minutes! For more, read the blog or The Bullet Journal Method book by Ryder Carroll.
+How I maintained Evernote is an interesting story: The free version had folder limitations, and to bypass the limit, I came up with a three-folder approach. (Inbox, Notes, References.) Since 3-folders cannot provide much context, I used tags and sub-tags. I had around 1k+ notes about random WordPress themes, with tags like #wp/good-header, #wp/mobile-responsive, #wp/max-width-960, and so on! (This is not bad, and I will tell you why!)
 
-Over the years, I've experimented with various analog journaling variations, including many templates recommended by other BuJoers, but what I found most effective for me was a single-color layout and using it as a rough note rather than tessellating. The function takes precedence over form! Here is how I do it:
+But the problem was, I created Evernote as an extension of the bookmark manager. It was an information holder. And as I grew, most of the information became less relevant to me. In 2020, I revisited Evernote and found 95% didn't make any sense. Most of the links were broken, out of context, or not relevant to me. I didn't have the patience to ask myself “Does this spark joy?”. Hence I deleted the whole account along with the data. I wanted to restart this, but with a better structure. 
 
-Stick to a One-Column Layout
-I don't spend much time on page layout. I use a 20% margin on the left and begin to write. This design makes the content easier to read, and the margin offers room to indicate any supplementary information, such as importance or status. I also use any pen that is available for thinking, treating it like a rough note and not paying attention to how it looks.
+Also, I considered creating a digital garden where I could store my half-finished, unedited notes. It appealed to me to have an open garage concept, and I know that I'm not the kind of person to blog consistently. These are the three concepts I had in mind while starting this project: 
 
+'Write' your note.
+My default action when I started using bookmarking tools was to store links without thinking about why or how. And the disadvantage of the system is that you won't remember the reason why it was stored. Quotes from notes also won't help after a long time, as they have become alien. So in the revised system, I was clear that I should "write" my notes instead of copy-pasting and keep the link as a supporting document.  
 
+One idea per note.
+While the concept of atomicity was clear in my experience of atomic design, it was challenging to put it in order when it came to note-making. It was my tendency to organize content by topic, and write it together. It took a while (and some plugins helped me).
 
-Keep it with you, always
-I always make sure that my journal is accessible and prepared for use. It's always on my desk, in the meeting room, and in my bag. I currently carry my pen clipped to a travel-journal notebook I purchased from an Indian company called Neorah.
+Keep it simple.
+A few months of overusing Notion taught me that vendor locks are real. If I have to migrate to another tool, I will have to delete everything and start fresh.
 
-Numbered notes, not page numbers
+And based on these three points, I chose Markdown. The reason is simple. It's universal, plain-text, lightweight, and device/tool agnostic. It will take you less than 10 minutes to understand Markdown (there is nothing to learn). Moreover, I am sure that there will be some markdown editors available in the 2040s and 50s. 
 
+Obsidian Tool
+I chose Obsidian since it was markdown-friendly. Similarly, I chose Jekyll for publishing and iWriter for writing from the iPad for its direct markdown support. My Obsidian setup is minimal, and I make sure that the plugins don't add any extra content inside the plain markdown.
 
-Depending on the situation and my mood, I do rapid logging, sketch, and write ideas. Instead of numbering pages, I number individual thoughts, which I started doing because I could not find any good notebooks with printed page numbers, and I also prefer to avoid leaving empty spaces in my journal that could later be filled with notes. But I found this atomic numbering effective as I could locate notes faster and update them.
+Directory Structure 
+My digital garden primarily serves as a knowledge project, and I keep it separate from project management and to-do lists. At the moment, I utilize a system consisting of ten folders, categorized as follows.
 
-Use Index Page Actively
-The index pages in the Bullet Journal system are the most useful aspect I have discovered, and they are one of the things that make my analog systems operate more effectively. In my index, I track note numbers rather than page numbers. I don't index or number my thoughts while I'm writing the notes, I typically complete that later in the day. Additionally, I indicate next to notes whether they are important, a task, or something I need to move to my working notes as I work.
+- 000 Inbox
+- 100 Notes
+- 200 Support Notes
+- 300 Logs
+- 400 Lists
+- 500 Projects
+- 600 Private
+- 700 Dailylog
+- 800 Obsidian
+- 900 Archive
+The Inbox serves as the starting point for building notes or creating to-write notes. The Notes folder contains atomic notes, which are more opinionated in nature, while the Support Notes folder is dedicated to terminologies, definitions, and similar content. Logs folder contains my personal reflections on consumed content, ranging from movies and books to travel experiences and coffee-related thoughts. Lists are used to catalog these logs, although I manually list interesting things without necessarily writing a log file for each item (as not all list items may have a corresponding log file). These four folders are public and accessible.
 
+The remaining folders serve different purposes. The Project/Idea folder is a space for articulating new ideas (a part of bullet journal migration). The Dailylog folder may contain some attempted daily logs, although this practice hasn't been successful for me. The Obsidian folder contains templates and other related materials, while the Archive is where I store "Old experiments" within the Obsidian framework.
 
+Folderless, idea first
+Although I utilize folders, the main purpose is to publish content to GitHub/Jekyll. The notes I create are not categorized according to specific topics or subjects; instead, they follow a flat hierarchy that allows for the development of graph-structured notes, as opposed to the tree format typically found in textbooks.
 
-Do a Periodic Review
-I try to read the notes and reaffirm their significance most often on the weekends. I only strike down the number in the index and next to the note, not the entire note. I occasionally rewrite the note to make it clearer and remove old notes from my index. I confirm that there is an ongoing migration, validation, and update. This is necessary to prevent the content from becoming cluttered.
+I use Jekyll tags in frontmatter for categorization. Another popular method is generating index pages for all topics and linking them to all related notes. This is helpful for sequential note-taking as these notes can later act as an Index/Map of Concepts.
 
-Continuous Knowledge Migration
-Instead of moving notes from one finished bullet journal to the next, I perform my periodic review and make sure that notes are updated, transferred, or deleted. Notes, if transferred to my working note, would have more generic context, links to the sources of inspiration, and information about those things. For my digital garden, these are "new seeds." (More on this in a future newsletter)
-
-Use other tools
-I don't force myself to use analog exclusively. I would prefer to use other tools if they could help me accomplish my goals more effectively. Instead of using a future or monthly log, I use Google Calendar. I prefer Habits for habit tracking and Toggl for time tracking, if necessary. (Check [[Tools]] Page for apps I use.)
+Alternatives
+I recommend local-storage knowledge tools over cloud-based ones due to vendor lock-in. You can use any cloud-based tool for backup (I use Dropbox), and GitHub + SSG for publishing. Gitbook is a tool to publish vaults, especially if you can organize notes in a folder-first format. For developers, there are extensions for VSCode and other text editors that support bi-linking. 
