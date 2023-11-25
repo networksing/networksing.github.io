@@ -1,7 +1,7 @@
 ---
 layout: Post
 permalink: /contact
-title: Contact
+title: 联系
 content-type: static
 ---
 
