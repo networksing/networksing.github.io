@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Events
+title: 网站事件
 permalink: /events
 content-type: static
 ---
