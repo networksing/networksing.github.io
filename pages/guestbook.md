@@ -1,15 +1,11 @@
 ---
 layout: Post
-permalink: /contact
-title: Contact
+permalink: /guestbook
+title: Guestbook
 content-type: static
 ---
 
-## WeChat 
-WeChat;QingHongJiao
-
-## E mail
-HelloWorkDev@Gmail.Com
+## Guestbook
 
 <script src="https://utteranc.es/client.js"
           repo="qinghongjiao/guestbook"
