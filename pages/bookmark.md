@@ -7,16 +7,26 @@ content-type: static
 
 ### Bookmark
 
-## For tools
-I offer coaching for individuals or teams looking to improve their design skills and knowledge. I provide 1:1 sessions like portfolio reviews and mock interviews on <a href="https://topmate.io/hiran">topmate</a>, and 30-minute design mentoring via  If you're interested in other coaching models or have any questions, feel free to <a href="mailto:hi@hiran.in">email</a> me.
+[菜鸟教程](https://www.runoob.com) 菜鸟教程(www.runoob.com)
 
-## For img
-For Product or Design Teams, I conduct workshops and coaching sessions on design thinking, design tools, and design process. The duration, content, and format of the workshop will be customized as per the team's requirements.
+[Bootstrap 而创造的图标字体](https://www.bootcss.com/p/font-awesome/) Font Awesome 是一套完美的图标字体，主要目的是和 Bootstrap 搭配使用
 
-## For cdn
-As a Founder/CXO, you can benefit from my guidance on design principles, design thinking, and design team processes. My insights can help shape the success of your product.
+[Bootstrap中文网](https://www.bootcss.com/) Bootstrap,CSS,CSS框架,CSS framework,javascript,bootcss,bootstrap开发,bootstrap代码,bootstrap入门
 
-## For Domina
-If you require expert feedback and validation for your projects or products, I provide unlimited asynchronous design feedback via Figma or email for a fixed monthly retainer of $300. Please note that I will not be creating designs for you, but rather providing insights to enhance your design.
+[国内CDNJS加速服务](https://u.sb/css-cdn/) 前端 CDNJS 库及 Google Fonts、Ajax 和 Gravatar 国内加速服务
 
+[Bootstrap 官方图标库](https://icons.bootcss.com/) Bootstrap 图标库 · Bootstrap 官方开源图标（icon）库
 
+[GitHub](https://github.com/) GitHub是一个面向开源及私有软件项目的托管平台
+
+[SpyColor.com ](https://SpyColor.com ) Css颜色（ RGB，CMYK ， HSL ， HSV ， XYZ ，导出了xyx ， CIELAB ， CIELUV ， CIELCH ，亨特实验室和YIQ ）
+
+[Cloudflare Pages ](https://pages.cloudflare.com/) Cloudflare Pages 是一个静态网站托管服务，功能和 Github Pages 差不多，可以存放静态网页，还可以直接部署前端项目
+
+[Sm.Ms ](https://sm.ms/) 
+
+[DynaDot ](https://www.dynadot.com/zh/)
+
+[loli Cdn](https://u.sb/css-cdn/)
+
+[阿里巴巴矢量图标库](https://www.iconfont.cn/)
