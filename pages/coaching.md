@@ -1,7 +1,7 @@
 ---
 layout: Post
-permalink: /coaching
-title: Coaching
+permalink: /devs
+title: Devs
 content-type: static
 ---
 
