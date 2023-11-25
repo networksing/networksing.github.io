@@ -1,14 +1,14 @@
 ---
 layout: Post
-permalink: /coaching
-title: Coaching
+permalink: /devs
+title: Devs
 content-type: static
 ---
 
-### Coaching
+### devs
 I offer coaching for individuals or teams looking to improve their design skills and knowledge. I provide 1:1 
 
-## For tools
+## For Code
 I offer coaching for individuals or teams looking to improve their design skills and knowledge. I provide 1:1
 
 ## For img
