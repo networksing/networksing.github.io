@@ -14,7 +14,7 @@ content-type: static
 | 1      | [yxw.me](https://yxw.me/)             | 2023-01-10 | 2024-01-10 | west    | 游戏网       |             |    
 | 2      | [hbw.me](https://hbw.me/)             | 2015-10-11 | 2024-10-11 | west    | 鸿博         |             |    
 | 3      | [huw.me](https://huw.me/)             | 2015-12-30 | 2023-12-30 | west    | 户，上海简称  |  静态CDN中   |    
-| 4      | [icp.me](https://icp.me/)             | 2011-10-03 | 2024-10-03 | west    | iCp备案      |        |    
+| 4      | [icp.me](https://icp.me/)             | 2011-10-03 | 2025-10-03 | west    | iCp备案      |        |    
 | 5      | [==pang.ge==](https://pang.ge/)       | 2018-06-27 | 2024-06-27 | quyu    | 胖哥     |        |    
 | 6      | [ltd.md](https://ltd.md/)             | 2021-01-08 | 2024-01-08 | quyu    | 公司     |        |    
 | 7      | qinghongjiao.com                      | 2020-09-22 | 2024-09-22 | west    |青红椒     |        |    
@@ -33,9 +33,9 @@ content-type: static
 | 20     | 918.world                             | 2017-02-08 | 2024-02-08 | west    | 918    |        |    
 | 21     | stranger.world                        | 2019-09-17 | 2024-09-17 | west    | 陌生人    |        |    
 | 22     | workgroup.world                       | 2019-12-11 | 2024-12-11 | west    | 工作组    | 个人导航   |    
-| 23     | kb.world                              | 2015-10-22 | 2028-10-22 | west    | KB     |        |    
-| 24     | gb.ooo                                | 2000-00-00 | 2000-00-00 | west    | gb     |   留言本     |    
-| 25     | css.world                             | 2000-00-00 | 2000-00-00 | west    | css    |        |    
+| 23     | kb.world                              | 2025-10-22 | 2029-10-22 | west    | KB     |        |    
+| 24     | gb.ooo                                | 2015-05-11 | 2025-05-11 | west    | gb     |   留言本     |    
+| 25     | css.world                             | 2021-01-19 | 2026-01-19 | west    | css    |        |    
 | 26     | org.ooo                               | 2014-10-23 | 2026-10-24 | west    | org    |        |    
 | 27     | vip.ong                               | 2024-03-17 | 2025-03-17 | dynadot | vip  |    |    
 | 28     | vip.ong                               | 2024-03-17 | 2025-03-17 | dynadot | vip  |    |    
