@@ -19,6 +19,7 @@ content-type: static
 | 4      | [icp.me](https://icp.me/)             | 2011-10-03 | 2024-10-03 | west    | iCp备案  |        |    |
 | 5      | [==pang.ge==](https://pang.ge/)       | 2018-06-27 | 2024-06-27 | quyu    | 胖哥     |        |    |
 | 6      | [ltd.md](https://ltd.md/)             | 2021-01-08 | 2024-01-08 | quyu    | 公司     |        |    |
+| 7      | default.hk                            | 2024-04-19 | 2025-04-19 | west    | 默认    |        |    |
 | 8      | qinghongjiao.com                      | 2020-09-22 | 2024-09-22 | west    | 青红椒    |        |    |
 | 10     | xiaozahuo.com                         | 2016-08-17 | 2024-08-17 | 阿里云     | 小杂货    |        |    |
 | 11     | [Archive.Vip](https://archive.vip/)   | 2015-05-18 | 2024-05-18 | west    | 档案     |        |    |
