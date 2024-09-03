@@ -20,7 +20,7 @@ content-type: static
 | 5      | [==pang.ge==](https://pang.ge/)       | 2018-06-27 | 2024-06-27 | quyu    | 胖哥     |        |    |
 | 6      | [ltd.md](https://ltd.md/)             | 2021-01-08 | 2024-01-08 | quyu    | 公司     |        |    |
 | 8      | qinghongjiao.com                      | 2020-09-22 | 2024-09-22 | west    | 青红椒    |        |    |
-| 9      | [zibaicai.com](https://zibaicai.com/) | 2020-06-09 | 2024-06-09 | 阿里云     | 紫白菜    |        |    |
+
 | 10     | xiaozahuo.com                         | 2016-08-17 | 2024-08-17 | 阿里云     | 小杂货    |        |    |
 | 11     | [Archive.Vip](https://archive.vip/)   | 2015-05-18 | 2024-05-18 | west    | 档案     |        |    |
 | 12     | [126.world](https://126.world/)       | 2017-04-02 | 2029-04-02 | west    | 126    |        |    |
