@@ -1,3 +1,10 @@
+---
+layout: Post
+permalink: /domain
+title: Domain
+content-type: static
+---
+
 **Domain**
 
 西部数码 趣域，阿里云
