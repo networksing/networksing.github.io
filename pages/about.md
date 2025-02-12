@@ -16,7 +16,7 @@ content-type: static
 >  喜欢收藏域名，奈何实力有限，故控制数量，才能不伤根本！
 
 ## WeChat 
-WeChat;QingHongJiao
+WeChat;workgropro
 
 ## E mail
-HelloWorkDev@Gmail.Com
+workgropro@Gmail.Com
