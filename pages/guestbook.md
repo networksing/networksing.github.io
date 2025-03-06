@@ -8,7 +8,7 @@ content-type: static
 ## Guestbook
 
 <script src="https://utteranc.es/client.js"
-          repo="networksing/guestbook"
+          repo="workspaceing/guestbook"
           issue-term="pathname"
           label="Comments"
           theme="github-light"
